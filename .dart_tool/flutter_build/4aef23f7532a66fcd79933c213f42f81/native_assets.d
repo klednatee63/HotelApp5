@@ -1,0 +1,1 @@
+ D:\\Workshop_flutter2567term1\\hotelapp_4\\.dart_tool\\flutter_build\\4aef23f7532a66fcd79933c213f42f81\\native_assets.yaml: 
